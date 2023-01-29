@@ -37,8 +37,7 @@ Step 5: At the end give endmodule.
 Step 6: Run the program and choose RTL viewer to get RTL realization.
 ## PROGRAM
 
-Program for  Implementation-of Shift-registers-using-verilog-
-Developed by: pravin raj
+Program for  Implementation-of Shift-registers-using-verilog-Developed by: pravin raj
 
 RegisterNumber:  22007200
 
