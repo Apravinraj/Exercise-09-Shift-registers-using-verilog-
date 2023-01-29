@@ -44,9 +44,7 @@ RegisterNumber:  22007200
 ## Serial Input Parallel Output (SIPO):
 
 module SIPO(SI,Clk,PO);
-
 input SI,Clk;
-
 output[0:7]PO;
 reg[0:7]temp;
 always@(posedge Clk)
